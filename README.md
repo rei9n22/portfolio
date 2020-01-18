@@ -1,1 +1,1 @@
-# portfolio
+# プログラミング学習サイトProgateで記述したコードを基に作成した、htmlとcssとjQueryによるportfolioです。
